@@ -7,8 +7,13 @@
   - [Processes](#processes)
   - [Insights](#insights)
   - [Recommendations](#recommendations)
+  - [How to use the dashboard](#how-to-use-the-dashboard)
+    
 ### Description
 This project offers an opportunity to gain hands on experience in analyzing data using excel including data cleaning, exploratory data analysis (EDA), PivotTables, KPI development, and dashboard creation. I used a Telco customer dataset to explore patterns in customer behavior, contracts, billing, demographics, and service usage that may be associated with churn.
+
+Source:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 <img width="1864" height="628" alt="Screenshot 2026-08-18 091950" src="https://github.com/user-attachments/assets/5e68a641-5bb4-4e10-a5e2-089b6904741e" />
 
@@ -87,7 +92,20 @@ Activities:
 - Develop Targeted Retention Strategies for Higher-Risk Demographic Groups: Senior citizens, customers without partners, and customers without dependents show higher churn rates. Rather than applying a single strategy to all customers, the business could investigate the needs of these segments and develop more targeted engagement or support initiatives.
 - Avoid Using Gender as a Primary Churn Target: Since male and female customers have similar churn rates, gender does not appear to be a meaningful differentiator in this analysis. Retention resources could therefore be prioritized toward factors showing larger differences in churn, such as contract type, tenure, monthly charges, and services.
 
+### How to use the dashboard
+Step 1: Download the dashboard
+- Download the Customer_Churn_Dashboard.xlsx file from the dashboard folder in this repository.
 
+Step 2: Open the dashboard
+- Open the .xlsx file using Microsoft Excel.
 
+Step 3: Enable editing
+- If prompted, select Enable Editing.
+
+Step 4: Explore the dashboard
+- Use the available filters/slicers to explore churn patterns across different customer characteristics.
+
+Step 5: Review the results
+- Use the KPIs, charts, and visualizations to understand the key churn patterns identified in the analysis.
 
 
