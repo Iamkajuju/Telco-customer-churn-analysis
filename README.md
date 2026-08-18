@@ -94,7 +94,8 @@ Activities:
 
 ### How to use the dashboard
 Step 1: Download the dashboard
-- Download the Customer_Churn_Dashboard.xlsx file from the dashboard folder in this repository.
+- Download the Customer_churn.xlsx file from the folder in this repository.
+ - [Download Customer churn Workbook](Customer_churn.xlsx)
 
 Step 2: Open the dashboard
 - Open the .xlsx file using Microsoft Excel.
